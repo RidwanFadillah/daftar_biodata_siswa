@@ -1,11 +1,11 @@
-1. Nama   : Aco Wahyudi
+1. Nama   : Aceng Wahyudi
    NIM    : H2020000001
    JK     : Laki - Laki
    Agama  : Islam
-   TTL    : Ambon, 19 Agustus 2003
-   Alamat : Jln. Loa Bakung RT.21 No.04
+   TTL    : Bandung, 19 Agustus 2003
+   Alamat : Jln. Merdeka RT.21 No.04
  
-2. Nama   : Erna Mulyani
+2. Nama   : Erna Mulyani Putri
    NIM    : H2020000002
    JK     : Perempuan
    Agama  : Islam
@@ -19,7 +19,7 @@
    TTL    : Samarinda, 22 Desember 2002
    Alamat : Jln. Keledang RT.13 No.26
  
-4. Nama   : Ilham ILyas
+4. Nama   : Ilham ILyasa
    NIM    : H2020000004
    JK     : Laki - Laki
    Agama  : Islam
