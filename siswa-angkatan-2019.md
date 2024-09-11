@@ -12,7 +12,7 @@
    TTL    : Samarinda, 02 Juni 2003
    Alamat : Jln. Bantuas RT.01 No.18
  
-3. Nama   : Indah Istiqomah
+3. Nama   : Indah Sri Istiqomah
    NIM    : H2020000003
    JK     : Perempuan
    Agama  : Islam
@@ -26,7 +26,7 @@
    TTL    : Pinrang, 10 Maret 2003
    Alamat : Jln. Mangkupalas RT.07 No.12
  
-5. Nama   : Rifqi Permana
+5. Nama   : Rafi Permana
    NIM    : H2020000005
    JK     : Laki - Laki
    Agama  : Islam
